@@ -17,6 +17,10 @@ function ClozeCard(text, cloze){
         }
     
 }
+var newCard = new ClozeCard('Hamilton created the treasury and is on the $10 bill', 'Hamilton')
+
+
+
 
 
 module.exports = ClozeCard;
